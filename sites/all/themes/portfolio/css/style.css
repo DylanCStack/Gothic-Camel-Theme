@@ -1,0 +1,30 @@
+/*body {
+  background-color: rgba(130, 20, 40, 1.0);
+  color:white;
+}
+
+body>*{
+  background-color: #690015;
+  color:white;
+}
+body>*>*{
+  background-color: #44000D;
+  color:white;
+}
+body>*>*>*{
+  background-color: #260008;
+  color:white;
+}*/
+
+
+.camelView {
+  padding: 10px;
+  margin: 10px;
+  /*float:left;*/
+  border: 1px solid lightgrey;
+  background-color: grey;
+}
+
+/*.content * {
+  clear:both;
+}*/

@@ -20,7 +20,7 @@
 
       // Place your code here.
 
-      $("h1").click(function(){
+      $("h2").click(function(){
         alert("click");
       });
     }
